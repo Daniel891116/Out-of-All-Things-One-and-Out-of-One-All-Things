@@ -47,6 +47,7 @@ Use this command to install required pip modules
   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -62,6 +63,7 @@ Use this command to install required pip modules
     python3 train.py --target src/cat1.jpg --ssim_limit 0.95
     ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
