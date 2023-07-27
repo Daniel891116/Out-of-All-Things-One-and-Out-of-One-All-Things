@@ -1,6 +1,7 @@
 # Out-of-All-Things-One-and-Out-of-One-All-Things
 This project is inspired by the art work titled "Out of All Things One, and Out of One All Things" created by Petros Vrellis.
 
+![DEMO](https://raw.githubusercontent.com/Daniel891116/Out-of-All-Things-One-and-Out-of-One-All-Things/main/src/variety.gif)
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
