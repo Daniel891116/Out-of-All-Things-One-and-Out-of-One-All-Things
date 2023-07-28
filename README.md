@@ -85,7 +85,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Yao-ting, Huang -yaotinghuang89@gmail.com
+Yao-ting, Huang yaotinghuang89@gmail.com
 
 Project Link: [Out-of-All-Things-One-and-Out-of-One-All-Things](https://github.com/Daniel891116/Out-of-All-Things-One-and-Out-of-One-All-Things)
 
