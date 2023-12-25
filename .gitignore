@@ -166,3 +166,6 @@ test/*
 pattern/pattern*/*
 *.key
 main.ipynb
+
+# Video
+src/*.mov
